@@ -13,7 +13,7 @@
 <strong>Clone the project and install all dependencies with your favorite package manager.</strong>
 
 ```
-$ git clone https://github.com/martins20/GoBarber.git
+$ git clone https://github.com/martins20/socket.io.git
 $ cd ${Folder}
 $ yarn or npm i
 ```
