@@ -28,6 +28,5 @@ $ yarn or npm i
 
 <br>
 <hr>
-<br>
 
 <h4 align="center">made with ❤️ - martins20</h4>
